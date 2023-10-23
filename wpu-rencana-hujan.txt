@@ -3,3 +3,4 @@ RENCANA HUJAN WPU
  *make doa
  *make sasajen
 -hujan terus terusan
+-hayang madang
