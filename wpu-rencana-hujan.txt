@@ -2,5 +2,8 @@ RENCANA HUJAN WPU
 -diturunkeun
  *make doa
  *make sasajen
+  ^kopi
 -hujan terus terusan
 -hayang madang
+ *make sangu
+ *make lauk
