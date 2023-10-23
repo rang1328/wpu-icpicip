@@ -4,3 +4,5 @@ RENCANA HUJAN WPU
  *make sasajen
 -hujan terus terusan
 -hayang madang
+ *make sangu
+ *make lauk
