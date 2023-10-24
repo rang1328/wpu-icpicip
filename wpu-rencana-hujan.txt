@@ -7,3 +7,5 @@ RENCANA HUJAN WPU
 -hayang madang
  *make sangu
  *make lauk
+-panas deui
+
